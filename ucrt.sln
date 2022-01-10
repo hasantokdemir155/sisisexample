@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ucrt", "ucrt\ucrt.dtproj", "{D1C74043-D2B3-4FDC-8986-96FDA7D298E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C74043-D2B3-4FDC-8986-96FDA7D298E4}.Development|Default.ActiveCfg = Development
+		{D1C74043-D2B3-4FDC-8986-96FDA7D298E4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B5AD4D-727C-4020-89A0-77698AB9134C}
+	EndGlobalSection
+EndGlobal
